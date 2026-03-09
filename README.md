@@ -40,12 +40,10 @@ Das ist eine Änderung im Readme, um Github zu testen.
     </tbody>
 </table>
 
-<code>
-
+```c
     int main()
     {
         printf("Hello World");
         return 0;
     }
-
-</code>
+```
